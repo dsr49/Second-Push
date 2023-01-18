@@ -1,0 +1,13 @@
+p.ye, p.second
+{
+    color: rgb(171, 104, 80);
+    background-color: chartreuse;
+}
+p#first{
+    color: pink;
+    background-color:  grey;
+}
+
+span, footer{
+    background-color: lightskyblue;
+}
